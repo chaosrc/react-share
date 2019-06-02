@@ -1,0 +1,12 @@
+<template>
+  <div>
+    <div>
+      <span>姓名：</span>
+      {props.name}
+    </div>
+    <div>
+      <span>年龄：</span>
+      {props.age}
+    </div>
+  </div>
+</template>
